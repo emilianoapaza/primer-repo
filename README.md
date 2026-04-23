@@ -1,2 +1,2 @@
 # primer-repo
-Primer repositorio creado en GitHub
+Primer repositorio remoto creado en GitHub

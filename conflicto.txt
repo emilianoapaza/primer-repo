@@ -1,1 +1,1 @@
-version local desde git
+version remota
